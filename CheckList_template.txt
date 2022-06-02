@@ -1,0 +1,11 @@
+Functional
+	login page
+	registration page
+	payment page
+	cart page
+Layout
+	main page blocks
+	footer
+	header
+	nav menu
+	links
